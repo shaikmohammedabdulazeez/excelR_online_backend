@@ -36,9 +36,9 @@ operations/task
 
 
 3.Logical operator
-4.bitwise operator
+4.bitwise operator.
 5.unary operator
-6.conditional/ternary operator
+6.conditional/ternary operator.
 7.Assignment operator
 
 
